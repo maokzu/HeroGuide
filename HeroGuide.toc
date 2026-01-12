@@ -1,0 +1,16 @@
+## Interface: 110007
+## Title: HeroGuide
+## Notes: Dynamic Achievement Guides powered by AllTheThings
+## Author: Antigravity
+## Version: 2.0
+## SavedVariables: HeroGuideDB
+## OptionalDeps: AllTheThings, TomTom
+
+Core\Init.lua
+Core\ATT_Bridge.lua
+UI\DebugWindow.lua
+UI\MinimapButton.lua
+UI\TreeDrawing.lua
+UI\LayoutEngine.lua
+UI\TreeRenderer.lua
+Core\EventHandler.lua
