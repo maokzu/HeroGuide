@@ -1,0 +1,15 @@
+
+# WoW Addon Gitignore
+.idea/
+.vscode/
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+
+# Addon specific
+Libs/
+
+# User specific
+HeroGuide.toc.user
